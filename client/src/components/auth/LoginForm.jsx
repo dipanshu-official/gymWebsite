@@ -187,9 +187,7 @@ const LoginForm = ({ role, onBack, variant = 'default' }) => {
           </div>
         </div>
         
-        <button className="w-full bg-gray-100 hover:bg-gray-200 text-gray-900 font-semibold py-3 px-6 rounded-lg transition-all duration-300">
-          Create New Account
-        </button>
+       
       </div>
     </div>
   )
